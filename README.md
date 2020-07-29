@@ -1,6 +1,6 @@
 ## Hi there!👋 I am Naman Chauhan
 
-#### Embedded systems and web developer, C++/Python :man_technologist: Programmer and Model UNer who loves listening to :headphones: music!
+**_Embedded systems and web developer, C++/Python :man_technologist: Programmer and Model UNer who loves listening to :headphones: music!_**
 
 🔭 I'm a UG student studying computer science but I'm best known on internet as [techmirtz](https://www.techmirtz.me). Don't trust me.
 Read more about me . . . 
