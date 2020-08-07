@@ -7,7 +7,6 @@
 - 👯 I'm always ready to collaborate on embedded systems, C++/python dev ops and Django. [Contact me](https://www.techmirtz.me/contact/) for collaborations.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to do Model UN and listening to music :headphones:
-- 📫 **Contact me:** [chauhannaman98@gmail.com](mailto:chauhannaman98@gmail.com)
 
 ### 📫 Connect with me:
 
