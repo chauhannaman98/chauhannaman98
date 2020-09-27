@@ -42,4 +42,4 @@
 
 ---
 
-<img alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chauhannaman98&show_icons=true&hide_border=true" />
+<img alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chauhannaman98&show_icons=true&hide_border=true&theme=react&count_private=true&cache_seconds=1800&" />
