@@ -43,3 +43,7 @@
 ---
 
 <img alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chauhannaman98&show_icons=true&hide_border=true&theme=react&count_private=true&cache_seconds=1800&" />
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chauhannaman98&langs_count=6&exclude_repo=Python-for-data-analysis,Credit-card-fraud-detection,Disease-Monitoring-and-Prediction,MLProject1,mushroom-classification,word-cloud,LittleArduinoProjects,introduction-to-embedded-systems,zircon,ESP-CoAP,Sonoff-Tasmota,SpeedTest,angular_stocks)](https://github.com/chauhannaman98)
