@@ -47,3 +47,7 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chauhannaman98&langs_count=6&exclude_repo=Python-for-data-analysis,Credit-card-fraud-detection,Disease-Monitoring-and-Prediction,MLProject1,mushroom-classification,word-cloud,LittleArduinoProjects,introduction-to-embedded-systems,zircon,ESP-CoAP,Sonoff-Tasmota,SpeedTest,angular_stocks)](https://github.com/chauhannaman98)
+
+---
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chauhannaman98)](https://github.com/chauhannaman98?tab=repositories)
