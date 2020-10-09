@@ -23,7 +23,7 @@
 
 ### 🔧 Languages and Tools:
 
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)](https://developer.android.com/studio)
 [![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)](https://getbootstrap.com/)
@@ -36,8 +36,8 @@
 [![](https://img.shields.io/badge/Tools-SQLite3-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)](https://www.sqlite.org/)
 [![](https://img.shields.io/badge/Tools-PyPi-informational?style=flat&logo=pypi&logoColor=white&color=2bbc8a)](https://pypi.org/)
 [![](https://img.shields.io/badge/Tools-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)](https://www.arduino.cc/)
-[![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)](https://firebase.google.com/)
 [![](https://img.shields.io/badge/Tools-Raspberry_Pi-informational?style=flat&logo=raspberry-pi&logoColor=white&color=2bbc8a)](https://www.raspberrypi.org/)
+[![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)](https://firebase.google.com/)
 
 <br>
 
