@@ -21,23 +21,19 @@
 
 ---
 
-### Languages and Tools:
+### 🔧 Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
-[<img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />](https://www.arduino.cc/)
-[<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />](https://getbootstrap.com/)
-[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />](https://www.djangoproject.com/)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://html.com/)
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://www.mysql.com/)
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/git)
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />](http://www.cplusplus.com/doc/tutorial/)
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
-[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />](https://firebase.google.com/)
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />](https://www.linux.org/)
-[<img align="left" alt="Raspberry Pi" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />](https://www.raspberrypi.org/)
-[<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />](https://ubuntu.com/)
+[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)](https://developer.android.com/studio)
+[![](https://img.shields.io/badge/Tools-Arduino-informational?style=flat&logo=arduino&logoColor=white&color=2bbc8a)](https://www.arduino.cc/)
+[![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)](https://getbootstrap.com/)
+[![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)](https://www.djangoproject.com/)
+[![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)](https://flutter.dev/)
+[![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)](http://www.cplusplus.com/doc/tutorial/)
+[![](https://img.shields.io/badge/Language-Pyhon_3.x-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)](https://www.python.org/)
+[![](https://img.shields.io/badge/Language-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)](https://dart.dev/)
+
 
 <br>
 
