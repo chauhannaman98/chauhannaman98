@@ -43,12 +43,16 @@
 
 ---
 
-<img alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chauhannaman98&show_icons=true&hide_border=true&theme=react&count_private=true&cache_seconds=1800" />
+### :bar_chart: Stats:
 
----
+<p align="center">
+<img alt="chauhannaman98's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chauhannaman98&show_icons=true&hide_border=true&theme=react&count_private=true&cache_seconds=1800" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chauhannaman98&hide_border=true&layout=compact&theme=react&langs_count=6&exclude_repo=Python-for-data-analysis,Credit-card-fraud-detection,Disease-Monitoring-and-Prediction,MLProject1,mushroom-classification,word-cloud,LittleArduinoProjects,introduction-to-embedded-systems,zircon,ESP-CoAP,Sonoff-Tasmota,SpeedTest,angular_stocks)](https://github.com/chauhannaman98)
+<p align="center">
+<img alt="chauhannaman98's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhannaman98&hide_border=true&layout=compact&theme=react&langs_count=6&exclude_repo=Python-for-data-analysis,Credit-card-fraud-detection,Disease-Monitoring-and-Prediction,MLProject1,mushroom-classification,word-cloud,LittleArduinoProjects,introduction-to-embedded-systems,zircon,ESP-CoAP,Sonoff-Tasmota,SpeedTest,angular_stocks" />
+</p>
 
----
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chauhannaman98&theme=react&hide_border=true)](https://github.com/chauhannaman98?tab=repositories)
+<p align="center">
+<img alt="chauhannaman98's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=chauhannaman98&theme=react&hide_border=true" />
+</p>
