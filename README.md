@@ -39,7 +39,11 @@
 [![](https://img.shields.io/badge/Tools-Raspberry_Pi-informational?style=flat&logo=raspberry-pi&logoColor=white&color=2bbc8a)](https://www.raspberrypi.org/)
 [![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)](https://firebase.google.com/)
 
-<br>
+---
+
+### :round_pushpin: Pinned Repositories
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=chauhannaman98&repo=IMDb-API&show_owner=True&theme=react&hide_border=true)](https://github.com/chauhannaman98/IMDb-API)
 
 ---
 
