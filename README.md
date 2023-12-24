@@ -3,11 +3,11 @@
 
 ## **_Embedded systems and web developer, C++/Python :man_technologist: Programmer_**
 
-- 🔭 I'm a UG student studying computer science but I'm best known on internet as [techmirtz](https://www.techmirtz.me). Don't trust me. Read more about me . . . 
-- :man_student: Currently, I am pursuing my undergrad from SRM Institute of Science and Technology from Computer Science and Engineering. Hopefully, I'll get my degree by 2021. :smile:
-- 👯 I'm always ready to collaborate on embedded systems, C++/python dev ops and Django. [Contact me](https://www.techmirtz.me/contact/) for collaborations.
+- 🔭 I'm a developer in MNC but I'm best known on the internet as [techmirtz](https://www.techmirtz.me). Don't trust me. Read more about me . . . 
+- :man_student: I graduated from SRM Institute of Science and Technology in Computer Science and Engineering in 2021. :smile:
+- 👯 I'm always ready to collaborate on embedded systems, C++/python dev ops, and Django. [Contact me](https://www.techmirtz.me/contact/) for collaborations.
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to do Model UN and listening to music :headphones:
+- ⚡ Fun fact: I love to travel and listen to music :headphones:
 
 ### 📫 Connect with me:
 
