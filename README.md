@@ -3,10 +3,10 @@
 
 ## **_Embedded systems and web developer, C++/Python :man_technologist: Programmer_**
 
-- 🔭 I'm a developer in MNC but I'm best known on the internet as [techmirtz](https://www.techmirtz.me). Don't trust me. Read more about me . . . 
+- 🔭 I'm a developer in MNC but I'm best known on the internet as [techmirtz](https://www.techmirtz.com). Don't trust me. Read more about me . . . 
 - :man_student: I graduated from SRM Institute of Science and Technology in Computer Science and Engineering in 2021. :smile:
-- 👯 I'm always ready to collaborate on embedded systems, C++/python dev ops, and Django. [Contact me](https://www.techmirtz.me/contact/) for collaborations.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 I'm always ready to collaborate on React, embedded systems, C++/python dev ops, and Django. [Contact me](https://www.techmirtz.com/#contact/) for collaborations.
+- 🥅 202 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and listen to music :headphones:
 
 ### 📫 Connect with me:
@@ -55,5 +55,5 @@
 </p>
 
 <p align="center">
-<img alt="chauhannaman98's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhannaman98&hide_border=true&layout=compact&theme=react&langs_count=6&exclude_repo=Python-for-data-analysis,Credit-card-fraud-detection,Disease-Monitoring-and-Prediction,MLProject1,mushroom-classification,word-cloud,LittleArduinoProjects,introduction-to-embedded-systems,zircon,ESP-CoAP,Sonoff-Tasmota,SpeedTest,angular_stocks" />
+<img alt="chauhannaman98's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhannaman98&hide_border=true&layout=compact&theme=react&langs_count=6" />
 </p>
