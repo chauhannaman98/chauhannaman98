@@ -1,4 +1,4 @@
-### Hi there!👋 I am Naman Chauhan aka [techmirtz](https://www.techmirtz.me)
+### Hi there!👋 I am Naman Chauhan aka [techmirtz](https://www.techmirtz.com)
 
 
 ## **_Embedded systems and web developer, C++/Python :man_technologist: Programmer_**
